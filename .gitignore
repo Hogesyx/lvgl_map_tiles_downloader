@@ -1,0 +1,5 @@
+# Ignore cache directory
+cache/
+
+# Ignore all .zip files
+*.zip
