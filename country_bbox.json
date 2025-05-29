@@ -101,7 +101,7 @@
     "HU": {"min_lat": 45.74, "max_lat": 48.59, "min_lon": 16.11, "max_lon": 22.90},
     "ID": {"min_lat": -11.21, "max_lat": 6.27, "min_lon": 94.90, "max_lon": 141.02},
     "IE": {"min_lat": 51.22, "max_lat": 55.64, "min_lon": -10.65, "max_lon": -5.99},
-    "IL": {"min_lat': 29.45, "max_lat": 33.34, "min_lon": 34.27, "max_lon": 35.90},
+    "IL": {"min_lat": 29.45, "max_lat": 33.34, "min_lon": 34.27, "max_lon": 35.90},
     "IM": {"min_lat": 54.05, "max_lat": 54.42, "min_lon": -4.79, "max_lon": -4.31},
     "IN": {"min_lat": 6.75, "max_lat": 35.67, "min_lon": 68.11, "max_lon": 97.40},
     "IO": {"min_lat": -7.39, "max_lat": -5.23, "min_lon": 71.21, "max_lon": 72.49},
