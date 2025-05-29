@@ -16,12 +16,12 @@ A Python toolkit for downloading and packaging Google Maps tiles for LVGL-powere
 ```
 .
 +-- cache/                   # Downloaded tiles storage
-¦   +-- world/               # Global tiles (zoom 0–6)
-¦   ¦   +-- 0/0/0.png
-¦   ¦   +-- .../... 
-¦   +-- [country_code]/      # Country tiles (zoom 7–15)
-¦       +-- 7/0/0.png
-¦       +-- .../... 
+Â¦   +-- world/               # Global tiles (zoom 0â€“6)
+Â¦   Â¦   +-- 0/0/0.png
+Â¦   Â¦   +-- .../... 
+Â¦   +-- [country_code]/      # Country tiles (zoom 7â€“15)
+Â¦       +-- 7/0/0.png
+Â¦       +-- .../... 
 +-- bundle.zip               # Final output (z/x/y.png structure)
 +-- country_bbox.json        # Country boundaries database
 +-- map_downloader.py        # Download script
@@ -31,7 +31,7 @@ A Python toolkit for downloading and packaging Google Maps tiles for LVGL-powere
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/lvgl_map_tiles_downloader.git
+git clone https://github.com/Hogesyx/lvgl_map_tiles_downloader.git
 cd lvgl_map_tiles_downloader
 pip install -r requirements.txt
 ```
@@ -65,4 +65,4 @@ python map_bundle.py
 
 ## License
 
-MIT License – See `LICENSE` for details.
+MIT License â€“ See `LICENSE` for details.
